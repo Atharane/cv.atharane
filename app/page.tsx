@@ -164,14 +164,6 @@ export default function Home() {
                 <IconBrandX />
               </a>
             </div>
-            <div className="hidden flex-col gap-x-1 font-mono text-sm text-muted-foreground print:flex">
-              <a href="mailto:work.atharane@gmail.com">
-                <span className="underline">bartosz.jarocki@hey.com</span>
-              </a>
-              <a href="tel:+919321662301">
-                <span className="underline">+48530213401</span>
-              </a>
-            </div>
           </div>
           <span className="relative flex shrink-0 overflow-hidden rounded-xl size-28">
             {/* <img
